@@ -155,6 +155,6 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Minecraft · Actualizado 2026-11-07 · Compartido bajo licencia MIT*
+*Minecraft · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
 
-<!-- last reviewed 2026-11-07 -->
+<!-- last reviewed 2026-11-08 -->
